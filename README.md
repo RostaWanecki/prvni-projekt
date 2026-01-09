@@ -1,4 +1,4 @@
-O projektu
+
 Cílem tohoto projektu bylo hlavně učit se a experimentovat. Během vývoje jsem si poprvé vyzkoušel:
 Python jako celek, Práci s API, Posílání requestů , Práci s JSON daty, Základy Flasku , Práci se satelitními / externími daty
  
